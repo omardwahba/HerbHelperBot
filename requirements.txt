@@ -1,0 +1,8 @@
+# Telegram Bot API wrapper
+python-telegram-bot>=20.0,<21.0
+
+# OpenAI API wrapper
+openai>=0.27.0,<0.28.0
+
+# For image processing (PIL is part of Pillow)
+Pillow>=9.0.0,<10.0.0
